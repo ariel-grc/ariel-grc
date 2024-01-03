@@ -6,7 +6,7 @@
 - <b>Nessus in Kali Linux</b>
   - [Vulnerability Scanning & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
 - <b>Python</b>
-  - [Managing Authorization in Linux Bash)](https://github.com/arielbethea/ManagingAuthorization)
+  - [Managing Authorization in Linux Bash](https://github.com/arielbethea/ManagingAuthorization)
   - [Practicing File Update Algos in Python](https://github.com/arielbethea/FileUpdateAlgorithms)
 
 <h2>📺 Certifications</h2>
