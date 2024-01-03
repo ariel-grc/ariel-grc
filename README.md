@@ -1,19 +1,17 @@
-<h1>Hi, I'm Ariel! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Analyst</a> and <a href="https://www.linkedin.com/in/arielbethea/">Emergency Management Technology Professional</a>
+<h1>Hi, I'm Ariel! <br/><a href="https://github.com/arielbethea">Cybersecurity Analyst</a> and <a href="https://www.linkedin.com/in/arielbethea/">Emergency Management Technology Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab)
 - <b>Nessus in Kali Linux</b>
-  - [Vulnerability Scanning](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Vulnerability Scanning & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
 - <b>Python</b>
-  - [Managing Authorization in Linux Bash)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Practicing File Update Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Vulnerability Management</b>
-  - [Vulnerability Assessment Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Managing Authorization in Linux Bash)](https://github.com/arielbethea/ManagingAuthorization)
+  - [Practicing File Update Algos in Python](https://github.com/arielbethea/FileUpdateAlgorithms)
 
 <h2>📺 Certifications</h2>
 
-- [Google Cybersecurity Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Professional](https://www.credly.com/badges/2cdaba1a-9b9b-4e4c-9579-507d500ddab1/public_url)
 - [Security Blue Team Introduction to Vulnerability Management](https://elearning.securityblue.team/home/certificate/424268323)
 
 <h2> 🤳 Connect with me:</h2>
