@@ -1,8 +1,8 @@
 <h1>Hi, I'm Ariel! <br/><a href="https://github.com/arielbethea">Cybersecurity Analyst</a> and <a href="https://www.linkedin.com/in/arielbethea/">Emergency Management Technology Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<!--- <b>PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab)-->
+<!-- - <b>PowerShell</b>
+  - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab) -->
 - <b>Nessus in Kali Linux</b>
   - [Vulnerability Scanning & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
 - <b>Python</b>
