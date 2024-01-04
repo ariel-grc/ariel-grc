@@ -13,7 +13,7 @@
 <h2>📺 Certifications</h2>
 
 - [Google Cybersecurity Professional](https://www.credly.com/badges/2cdaba1a-9b9b-4e4c-9579-507d500ddab1/public_url)
-- [Security Blue Team Introduction to Vulnerability Management](https://elearning.securityblue.team/home/certificate/424268323)
+- [Security Blue Team Introduction to Vulnerability Management](https://github.com/arielbethea/arielbethea/blob/main/Security%20Blue%20Team%20-%20Introduction%20to%20Vulnerability%20Management-course.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
