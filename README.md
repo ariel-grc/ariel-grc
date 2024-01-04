@@ -16,7 +16,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ArielBethea | LinkedIn" width="22px" src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-white-logo.png" />][linkedin]
+[<img align="left" alt="ArielBethea | LinkedIn" width="22px" src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-black-white-icon.png" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/arielbethea 
 
