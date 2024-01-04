@@ -16,13 +16,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<!--[<img align="left" alt="ArielBethea | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ArielBethea | LinkedIn" width="22px" src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-white-logo.png" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/arielbethea -->
+[linkedin]: https://linkedin.com/in/arielbethea 
 
-[<img align="left" alt="ArielBethea | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg/black/white" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/arielbethea
 <!--
 **aabethea/aabethea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
