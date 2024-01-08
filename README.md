@@ -3,8 +3,9 @@
 
 <!-- - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab) -->
-- <b>Nessus in Kali Linux</b>
-  - [Vulnerability Scanning & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
+- <b>Kali Linux</b>
+  - [Vulnerability Scanning (Nessus) & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
+  <!-- - [Digital Forensics](https://github.com/arielbethea/ActiveDirectoryLab) -->
 - <b>Linux</b>
   - [Managing Authorization in Linux](https://github.com/arielbethea/ManagingAuthorization)
 - <b>Python</b>
