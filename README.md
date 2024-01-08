@@ -21,6 +21,7 @@
   - [Security Blue Team Introduction to Network Analysis](https://github.com/arielbethea/arielbethea/blob/main/Ssecurity%20Blue%20Team%20-%20Introduction%20to%20Network%20Analysis-course.pdf)
   - [Security Blue Team Introduction to Digital Forensics](https://github.com/arielbethea/arielbethea/blob/main/Security%20Blue%20Team%20-%20Introduction%20to%20Digital%20Forensics-course.pdf)
   - [Security Blue Team Introduction to OSINT](https://github.com/arielbethea/arielbethea/blob/main/Security%20Blue%20Team%20-%20Introduction%20to%20OSINT-course.pdf)
+  - [Security Blue Team Introduction to Dark Web Operations](https://github.com/arielbethea/arielbethea/blob/main/Security%20Blue%20Team%20-%20Introduction%20to%20Dark%20Web%20Operations-course.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
