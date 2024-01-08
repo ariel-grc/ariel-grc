@@ -5,8 +5,8 @@
   - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab) -->
 - <b>Nessus in Kali Linux</b>
   - [Vulnerability Scanning & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
-- <b>Bash</b>
-  - [Managing Authorization in Linux Bash](https://github.com/arielbethea/ManagingAuthorization)
+- <b>Linux</b>
+  - [Managing Authorization in Linux](https://github.com/arielbethea/ManagingAuthorization)
 - <b>Python</b>
   - [Practicing File Update Algos in Python](https://github.com/arielbethea/FileUpdateAlgorithms)
 
