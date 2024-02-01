@@ -6,7 +6,7 @@
 - <b>Kali Linux</b>
   - [Vulnerability Scanning (Nessus) & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
   <!-- - [Digital Forensics](https://github.com/arielbethea/ActiveDirectoryLab) -->
-- <b>Linux</b>
+- <b>Bash</b>
   - [Managing Authorization in Linux](https://github.com/arielbethea/ManagingAuthorization)
 - <b>Python</b>
   - [Practicing File Update Algos in Python](https://github.com/arielbethea/FileUpdateAlgorithms)
