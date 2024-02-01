@@ -16,6 +16,7 @@
 
 - <b>Education</b>
   - Master of Science, Emergency Management, CUNY John Jay College
+  - Bachelor of Science, Criminal Justice, Rochester Institute of Technology
  
     
 - <b>Certifications</b>
