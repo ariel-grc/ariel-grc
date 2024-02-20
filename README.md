@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ariel! <br/><a href="https://github.com/arielbethea">Cybersecurity Analyst</a> and <a href="https://www.linkedin.com/in/arielbethea/">Emergency Management Technology Professional</a>
+<h1>Hi, I'm Ariel! <br/><a href="https://github.com/arielbethea">GRC Cybersecurity Analyst</a> <a href="https://www.linkedin.com/in/arielbethea/"></a>
 <h2> 👩‍💻 Cybersecurity Projects:</h2>
 
 <!-- - <b>PowerShell</b>
