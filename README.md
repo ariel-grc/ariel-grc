@@ -5,6 +5,10 @@
   - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab) -->
 - <b>Audit and Risk Analysis</b>
   - [Audit and Risk Analysis Lab](https://github.com/arielbethea/AuditRiskAnalysis)
+<!-- - <b>Cybersecurity Awareness Content</b>
+  - [Cybersecurity Awareness Content Lab](https://github.com/arielbethea/CybersecurityAwarenessContent) --> 
+- <b>Information Security Policy</b>
+  - [Information Security Policy Lab](https://github.com/arielbethea/InformationSecurityPolicy)  
 - <b>Kali Linux</b>
   - [Vulnerability Scanning (Nessus) & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
   <!-- - [Digital Forensics](https://github.com/arielbethea/ActiveDirectoryLab) -->
