@@ -3,6 +3,8 @@
 
 <!-- - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab) -->
+- <b>Audit and Risk Analysis</b>
+  - [Audit and Risk Analysis Lab](https://github.com/arielbethea/AuditRiskAnalysis)
 - <b>Kali Linux</b>
   - [Vulnerability Scanning (Nessus) & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
   <!-- - [Digital Forensics](https://github.com/arielbethea/ActiveDirectoryLab) -->
