@@ -26,8 +26,7 @@
  
     
 - <b>Certifications</b>
-  - <b>Simply Cyber</b>
-     - [GRC Analyst Master Class](https://github.com/arielbethea/arielbethea/blob/main/certificate-of-completion-for-the-definitive-grc-analyst-master-class.pdf)
+  - [Simply Cyber GRC Analyst Master Class](https://github.com/arielbethea/arielbethea/blob/main/certificate-of-completion-for-the-definitive-grc-analyst-master-class.pdf)
   - [Google Cybersecurity Professional](https://www.credly.com/badges/2cdaba1a-9b9b-4e4c-9579-507d500ddab1/public_url)
     
   - <b>Security Blue Team</b>
