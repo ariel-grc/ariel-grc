@@ -1,14 +1,15 @@
 <h1>Hi, I'm Ariel! <br/><a href="https://github.com/arielbethea">GRC Cybersecurity Analyst</a> <a href="https://www.linkedin.com/in/arielbethea/"></a>
 <h2> 👩‍💻 Cybersecurity Projects:</h2>
 
-- <b>Compliance and Risk</b>
+- <b>Governance, Risk, and Compliance</b>
   - [Audit and Risk Analysis Lab](https://github.com/arielbethea/AuditRiskAnalysis)
-- <b>Governance</b>
   - [Information Security Policy Lab](https://github.com/arielbethea/InformationSecurityPolicy)  
 <!-- - <b>Cybersecurity Awareness Content</b>
   - [Cybersecurity Awareness Content Lab](https://github.com/arielbethea/CybersecurityAwarenessContent) --> 
 <!-- - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab) -->
+<!-- - <b>AWS</b>
+  - [AWS IAM Enumeration](https://github.com/arielbethea/AWS-IAM-enumeration) -->
 - <b>Kali Linux</b>
   - [Vulnerability Scanning (Nessus) & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
   <!-- - [Digital Forensics](https://github.com/arielbethea/ActiveDirectoryLab) -->
