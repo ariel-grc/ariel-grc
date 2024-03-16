@@ -29,8 +29,10 @@
  
     
 - <b>Certifications</b>
+  - [XM Cyber Exposure Management Certified Expert](https://www.credly.com/badges/efb6dbcf-eeb4-4e69-b57a-38ee45e1a693/public_url)
   - [Simply Cyber GRC Analyst Master Class](https://github.com/arielbethea/arielbethea/blob/main/certificate-of-completion-for-the-definitive-grc-analyst-master-class.pdf)
   - [Google Cybersecurity Professional](https://www.credly.com/badges/2cdaba1a-9b9b-4e4c-9579-507d500ddab1/public_url)
+
     
   - <b>Security Blue Team</b>
     - [Blue Team Junior Analyst (BTJA)](https://github.com/arielbethea/arielbethea/blob/main/Security%20Blue%20Team%20-%20Blue%20Team%20Junior%20Analyst%20Pathwaybtja.pdf)
