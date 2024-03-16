@@ -10,6 +10,8 @@
   - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab) -->
 <!-- - <b>AWS</b>
   - [AWS IAM Enumeration](https://github.com/arielbethea/AWS-IAM-enumeration) -->
+- <b>Splunk</b>
+  - [Creating a Dynamic and Interactive Dashboard in Splunk](https://github.com/arielbethea/SplunkInsights)
 - <b>Kali Linux</b>
   - [Vulnerability Scanning (Nessus) & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
   <!-- - [Digital Forensics](https://github.com/arielbethea/ActiveDirectoryLab) -->
