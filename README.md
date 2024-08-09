@@ -4,8 +4,9 @@
 - <b>Governance, Risk, and Compliance</b>
   - [Audit and Risk Analysis Lab](https://github.com/arielbethea/AuditRiskAnalysis)
   - [Information Security Policy Lab](https://github.com/arielbethea/InformationSecurityPolicy)  
-<!-- - <b>Cybersecurity Awareness Content</b>
-  - [Cybersecurity Awareness Content Lab](https://github.com/arielbethea/CybersecurityAwarenessContent) --> 
+- <b>Cybersecurity Awareness Content</b>
+  - [Cybersecurity Awareness Training](https://github.com/arielbethea/CybersecurityAwarenessTraining)
+<!--  - [Cybersecurity Awareness Content Lab](https://github.com/arielbethea/CybersecurityAwarenessContent) --> 
 <!-- - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab) -->
 <!-- - <b>AWS</b>
