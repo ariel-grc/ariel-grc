@@ -18,10 +18,10 @@
   - [Phishing Analysis](https://github.com/arielbethea/PhishingAnalysis)
   - [Vulnerability Scanning (Nessus) & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
   <!-- - [Digital Forensics](https://github.com/arielbethea/ActiveDirectoryLab) -->
-- <b>Bash</b>
+<!--- <b>Bash</b>
   - [Managing Authorization in Linux](https://github.com/arielbethea/ManagingAuthorization)
 - <b>Python</b>
-  - [Practicing File Update Algos in Python](https://github.com/arielbethea/FileUpdateAlgorithms)
+  - [Practicing File Update Algos in Python](https://github.com/arielbethea/FileUpdateAlgorithms) -->
 
 
 <h2>👩‍🎓 Education and Certifications:</h2>
