@@ -15,6 +15,7 @@
 - <b>Splunk</b>
   - [Creating a Dynamic and Interactive Dashboard in Splunk](https://github.com/arielbethea/SplunkInsights)
 - <b>Kali Linux</b>
+  - [Phishing Analysis](https://github.com/arielbethea/PhishingAnalysis)
   - [Vulnerability Scanning (Nessus) & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
   <!-- - [Digital Forensics](https://github.com/arielbethea/ActiveDirectoryLab) -->
 - <b>Bash</b>
