@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ariel! <br/><a href="https://github.com/arielbethea">GRC Analyst</a> <a href="https://www.linkedin.com/in/arielbethea/"></a>
+<h1>Hi, I'm Ariel! <br/><a href="https://github.com/arielbethea">Cyber Resilience Professional</a> <a href="https://www.linkedin.com/in/arielbethea/"></a>
 <h2> 👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>Governance, Risk, and Compliance</b>
