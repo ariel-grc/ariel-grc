@@ -2,6 +2,7 @@
 <h2> 👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>Governance, Risk, and Compliance</b>
+  - [Qualitative Risk Management Methodology for Healthcare Organization](https://github.com/arielbethea/risk-management-methodology)
   - [Audit and Risk Analysis Lab](https://github.com/arielbethea/AuditRiskAnalysis)
   - [Information Security Policy Lab](https://github.com/arielbethea/InformationSecurityPolicy)  
 - <b>Cybersecurity Awareness Content</b>
