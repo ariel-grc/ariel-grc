@@ -2,12 +2,16 @@
 <h2> 👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>Governance, Risk, and Compliance</b>
-  - [Qualitative Risk Management Methodology for Healthcare Organization](https://github.com/arielbethea/risk-management-methodology)
+  - 🛡️ [CareNova Health – Risk Management Methodology (GRC | Healthcare)](https://github.com/ariel-grc/healthcare-risk-management-methodology)  
+  Developed a formalized risk governance framework for a fictional healthcare organization. Covers qualitative risk assessment, scenario planning, and executive oversight using a GRC-aligned structure.
   - [Audit and Risk Analysis Lab](https://github.com/arielbethea/AuditRiskAnalysis)
   - [Information Security Policy Lab](https://github.com/arielbethea/InformationSecurityPolicy)  
 - <b>Cybersecurity Awareness Content</b>
   - [Cybersecurity Awareness Training](https://github.com/arielbethea/CybersecurityAwarenessTraining)
-  - [Cybersecurity Password Awareness Infographic – Forage x Commonwealth Bank](https://github.com/ariel-grc/Password-Security-Awareness-Infographic)
+  - 🧠 [Cybersecurity Password Awareness Infographic – Forage x Commonwealth Bank](https://github.com/ariel-grc/Password-Security-Awareness-Infographic)  
+  Created a visual security training aid aligned with ACSC guidance to strengthen internal password hygiene as part of a cybersecurity job simulation.
+
+
 <!--  - [Cybersecurity Awareness Content Lab](https://github.com/arielbethea/CybersecurityAwarenessContent) --> 
 <!-- - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab) -->
