@@ -7,7 +7,7 @@
   - [Information Security Policy Lab](https://github.com/arielbethea/InformationSecurityPolicy)  
 - <b>Cybersecurity Awareness Content</b>
   - [Cybersecurity Awareness Training](https://github.com/arielbethea/CybersecurityAwarenessTraining)
-  - [Cybersecurity Password Safety Infographics](https://github.com/arielbethea/CybersecurityInfographics)
+  - [Cybersecurity Password Awareness Infographic – Forage x Commonwealth Bank](https://github.com/ariel-grc/Password-Security-Awareness-Infographic)
 <!--  - [Cybersecurity Awareness Content Lab](https://github.com/arielbethea/CybersecurityAwarenessContent) --> 
 <!-- - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab) -->
