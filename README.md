@@ -20,7 +20,8 @@
 <!-- - <b>AWS</b>
   - [AWS IAM Enumeration](https://github.com/arielbethea/AWS-IAM-enumeration) -->
 - <b>Splunk</b>
-  - [Creating a Dynamic and Interactive Dashboard in Splunk](https://github.com/arielbethea/SplunkInsights)
+- 📊 [Buttercup Enterprises: Cross-Team Splunk Dashboard for IT, DevOps, Fraud & Business Insights](https://github.com/ariel-grc/buttercup-enterprises-splunk-dashboard)  
+  Built a dynamic Splunk dashboard delivering actionable insights for IT Ops, DevOps, Business Analytics, and Security/Fraud teams across a simulated eCommerce environment.
 - <b>Kali Linux</b>
   - [Phishing Analysis](https://github.com/arielbethea/PhishingAnalysis)
   - [Vulnerability Scanning (Nessus) & Assessment Report](https://github.com/arielbethea/VulnerabilityScanning)
