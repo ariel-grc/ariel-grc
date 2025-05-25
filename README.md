@@ -1,3 +1,94 @@
+# 👋 Hi, I'm Ariel
+
+### Governance, Risk & Compliance (GRC) | Cybersecurity | Risk Management
+
+I'm a GRC professional with a passion for helping organizations build secure, compliant, and resilient systems. With hands-on experience in GRC frameworks, risk analysis, policy development, and security awareness, I bridge the gap between technical implementation and organizational risk posture.
+
+---
+
+## 🛡️ Featured GRC & InfoSec Projects
+
+### 🏥 **CareNova Health – Risk Management Framework**
+
+*GRC | Healthcare | Risk Governance*
+Designed a formal risk management program for a fictional healthcare organization, including qualitative risk analysis, scenario planning, and executive oversight.
+[View Project →](https://github.com/ariel-grc/healthcare-risk-management-methodology)
+
+### 📋 **NIST Cybersecurity Audit & Risk Analysis**
+
+*Audit | Risk Modeling | NIST SP 800-30 & 800-53*
+Executed a semi-quantitative cybersecurity risk assessment and audit using NIST guidance to prioritize control gaps.
+[View Project →](https://github.com/ariel-grc/NIST-CSF-Audit-Risk-Analysis)
+
+### 🔐 **SimplyCyber Financials – Information Security Policy**
+
+*Policy Writing | Access Controls | NIST SP 800-53 Compliance*
+Authored an enterprise-grade InfoSec policy aligned with access control best practices and authenticator management standards.
+[View Project →](https://github.com/ariel-grc/infosec-policy-simplycyber-financials)
+
+---
+
+## 🎯 Security Awareness & Human Risk Management
+
+### 👩‍🏫 **Phishing Resilience: Awareness Training**
+
+*Security Culture | Training Strategy | Mastercard Forage*
+Developed targeted phishing awareness training based on user simulation data to reduce social engineering risk.
+[View Project →](https://github.com/ariel-grc/security-awareness-training)
+
+### 🧠 **Password Hygiene Awareness Infographic**
+
+*Security Communication | Visual Awareness | ACSC-Aligned*
+Created an engaging infographic on password safety using guidance from the Australian Cyber Security Centre.
+[View Project →](https://github.com/ariel-grc/Password-Security-Awareness-Infographic)
+
+---
+
+## 📊 Data-Driven Security Monitoring
+
+### 📈 **Buttercup Enterprises: Interactive Splunk Dashboard**
+
+*Monitoring | Fraud Detection | IT/DevOps/Security Analytics*
+Built a four-view dashboard in Splunk for IT Ops, DevOps, Business Analytics, and Fraud/Security teams within an eCommerce simulation.
+[View Project →](https://github.com/ariel-grc/buttercup-enterprises-splunk-dashboard)
+
+---
+
+## 🎓 Education
+
+* **M.S. in Emergency Management** – CUNY John Jay College
+* **B.S. in Criminal Justice** – Rochester Institute of Technology
+
+---
+
+## 📜 Certifications & Training
+
+**Completed**
+
+* ✅ [USF InfoSec GRC Analyst Program](https://www.credly.com/badges/996bba09-07f9-4673-aa82-4dc17b88817b)
+* ✅ [AKYLADE Certified Cyber Resilience Fundamentals (A/CCRF)](https://www.credential.net/50a2f9e8-2d2a-4e01-90bb-8339613c91d4#acc.1CVhrwoE)
+* ✅ The GRC Lab – ISO 27001:2022 Lead Implementer
+* ✅ [XM Cyber Exposure Management Certified Expert](https://www.credly.com/badges/efb6dbcf-eeb4-4e69-b57a-38ee45e1a693/public_url)
+* ✅ Simply Cyber GRC Analyst Master Class
+* ✅ Security Blue Team – BTJA & Intro Courses (Vuln Mgmt, Threat Hunting, OSINT, etc.)
+
+**In Progress**
+
+* ⏳ CompTIA Security+
+* ⏳ AKYLADE Certified Risk Management Foundation (A/CRMF)
+
+---
+
+## 🤝 Connect With Me
+
+* 🔗 [LinkedIn Profile](https://linkedin.com/in/arielbethea)
+
+---
+
+🚨 *Actively seeking opportunities in InfoSec, GRC, Risk Analysis, or Compliance. Open to apprenticeships, internships, or full-time roles.*
+
+<!---
+
 <h1>Hi, I'm Ariel! <br/><a href="https://github.com/arielbethea">Governance, Risk, and Compliance Professional</a> <a href="https://www.linkedin.com/in/arielbethea/"></a>
 <h2> 👩‍💻 Cybersecurity Projects:</h2>
 
@@ -20,7 +111,7 @@
 <!-- - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/arielbethea/ActiveDirectoryLab) -->
 <!-- - <b>AWS</b>
-  - [AWS IAM Enumeration](https://github.com/arielbethea/AWS-IAM-enumeration) -->
+  - [AWS IAM Enumeration](https://github.com/arielbethea/AWS-IAM-enumeration) 
 - <b>Splunk</b>
   - 📊 [Buttercup Enterprises: Cross-Team Splunk Dashboard for IT, DevOps, Fraud & Business Insights](https://github.com/ariel-grc/buttercup-enterprises-splunk-dashboard)  
   Built a dynamic Splunk dashboard delivering actionable insights for IT Ops, DevOps, Business Analytics, and Security/Fraud teams across a simulated eCommerce environment.
@@ -31,7 +122,7 @@
 <!--- <b>Bash</b>
   - [Managing Authorization in Linux](https://github.com/arielbethea/ManagingAuthorization)
 - <b>Python</b>
-  - [Practicing File Update Algos in Python](https://github.com/arielbethea/FileUpdateAlgorithms) -->
+  - [Practicing File Update Algos in Python](https://github.com/arielbethea/FileUpdateAlgorithms) 
 
 
 <h2>👩‍🎓 Education and Certifications:</h2>
