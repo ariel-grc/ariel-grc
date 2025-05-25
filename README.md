@@ -1,8 +1,20 @@
 # 👋 Hi, I'm Ariel
 
-### Governance, Risk & Compliance (GRC) | Cybersecurity | Risk Management
+### 🛡️ Information Security Compliance | GRC & Risk Analyst | Bridging Security, Compliance & Trust  
 
-I'm a GRC professional with a passion for helping organizations build secure, compliant, and resilient systems. With hands-on experience in GRC frameworks, risk analysis, policy development, and security awareness, I bridge the gap between technical implementation and organizational risk posture.
+---
+
+I’m a GRC and InfoSec analyst passionate about building secure, audit-ready, and user-centered systems. With a foundation in emergency management and 3+ years supporting SaaS platforms in HealthTech, EdTech, and emergency response, I bring a practical approach to cybersecurity governance, risk analysis, fraud prevention, and regulatory compliance.
+
+I bridge the gap between technical implementation and human risk, with hands-on experience in:
+
+📊 Security monitoring, fraud detection & access risk analysis
+
+📋 Developing NIST SP 800-53 & HIPAA-aligned InfoSec policies
+
+🔄 Supporting third-party risk reviews and client assurance efforts
+
+📢 Designing security awareness training & user enablement content
 
 ---
 
