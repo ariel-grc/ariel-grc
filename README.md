@@ -4,12 +4,14 @@
 - <b>Governance, Risk, and Compliance</b>
   - 🛡️ [CareNova Health – Risk Management Methodology (GRC | Healthcare)](https://github.com/ariel-grc/healthcare-risk-management-methodology)  
   Developed a formalized risk governance framework for a fictional healthcare organization. Covers qualitative risk assessment, scenario planning, and executive oversight using a GRC-aligned structure.
-  - [Audit and Risk Analysis Lab](https://github.com/arielbethea/AuditRiskAnalysis)
+  - 🔍 [NIST Cybersecurity Audit & Risk Analysis](https://github.com/ariel-grc/NIST-CSF-Audit-Risk-Analysis)  
+  Conducted detailed audit and semi-quantitative risk analysis of NIST SP 800-53 controls to identify and prioritize cybersecurity risks. 
   - 🔐 [SimplyCyber Financials – Information Security Policy](https://github.com/ariel-grc/infosec-policy-simplycyber-financials)  
   Authored a complete enterprise-grade Information Security Policy for a fictional financial services firm, aligned with NIST SP 800-53 access and authenticator management controls.
 
 - <b>Cybersecurity Awareness Content</b>
-  - [Cybersecurity Awareness Training](https://github.com/arielbethea/CybersecurityAwarenessTraining)
+  - 🎯 [Phishing Resilience: Awareness Training](https://github.com/ariel-grc/security-awareness-training)  
+   Boosted resilience against phishing by designing targeted cybersecurity training for high-risk teams in a simulated environment. 
   - 🧠 [Cybersecurity Password Awareness Infographic – Forage x Commonwealth Bank](https://github.com/ariel-grc/Password-Security-Awareness-Infographic)  
   Created a visual security training aid aligned with ACSC guidance to strengthen internal password hygiene as part of a cybersecurity job simulation.
 
@@ -20,7 +22,7 @@
 <!-- - <b>AWS</b>
   - [AWS IAM Enumeration](https://github.com/arielbethea/AWS-IAM-enumeration) -->
 - <b>Splunk</b>
-- 📊 [Buttercup Enterprises: Cross-Team Splunk Dashboard for IT, DevOps, Fraud & Business Insights](https://github.com/ariel-grc/buttercup-enterprises-splunk-dashboard)  
+  - 📊 [Buttercup Enterprises: Cross-Team Splunk Dashboard for IT, DevOps, Fraud & Business Insights](https://github.com/ariel-grc/buttercup-enterprises-splunk-dashboard)  
   Built a dynamic Splunk dashboard delivering actionable insights for IT Ops, DevOps, Business Analytics, and Security/Fraud teams across a simulated eCommerce environment.
 - <b>Kali Linux</b>
   - [Phishing Analysis](https://github.com/arielbethea/PhishingAnalysis)
