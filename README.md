@@ -5,7 +5,9 @@
   - 🛡️ [CareNova Health – Risk Management Methodology (GRC | Healthcare)](https://github.com/ariel-grc/healthcare-risk-management-methodology)  
   Developed a formalized risk governance framework for a fictional healthcare organization. Covers qualitative risk assessment, scenario planning, and executive oversight using a GRC-aligned structure.
   - [Audit and Risk Analysis Lab](https://github.com/arielbethea/AuditRiskAnalysis)
-  - [Information Security Policy Lab](https://github.com/arielbethea/InformationSecurityPolicy)  
+  - 🔐 [SimplyCyber Financials – Information Security Policy](https://github.com/ariel-grc/infosec-policy-simplycyber-financials)  
+  Authored a complete enterprise-grade Information Security Policy for a fictional financial services firm, aligned with NIST SP 800-53 access and authenticator management controls.
+
 - <b>Cybersecurity Awareness Content</b>
   - [Cybersecurity Awareness Training](https://github.com/arielbethea/CybersecurityAwarenessTraining)
   - 🧠 [Cybersecurity Password Awareness Infographic – Forage x Commonwealth Bank](https://github.com/ariel-grc/Password-Security-Awareness-Infographic)  
