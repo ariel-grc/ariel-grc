@@ -41,7 +41,7 @@
 - <b>Certifications</b>
   - CompTIA Security+ (⏳in-progress)
   - AKYLADE Certified Risk Management Foundation (A/CRMF) (⏳in-progress)
-  - USF InfoSec GRC Analyst certificate (⏳in-progress)
+  - [USF InfoSec GRC Analyst Program](https://www.credly.com/badges/996bba09-07f9-4673-aa82-4dc17b88817b)
   - [AKYLADE Certified Cyber Resilience Fundamentals (A/CCRF)](https://www.credential.net/50a2f9e8-2d2a-4e01-90bb-8339613c91d4#acc.1CVhrwoE)
   - [The GRC Lab ISO 27001:2022 Lead Implementer](https://github.com/arielbethea/arielbethea/blob/main/certificate-of-completion-for-iso-27001-lead-implementer.pdf)
   - [XM Cyber Exposure Management Certified Expert](https://www.credly.com/badges/efb6dbcf-eeb4-4e69-b57a-38ee45e1a693/public_url)
