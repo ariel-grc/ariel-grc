@@ -9,7 +9,7 @@ I specialize in translating complex security frameworks into actionable, human-c
 
 - 📊 Security monitoring, fraud detection & access risk analysis  
 - 📋 Developing NIST SP 800-53 & HIPAA-aligned InfoSec policies  
-- 🔄 Supporting third-party risk reviews & client assurance efforts  
+- 🔄 Supporting third-party risk reviews  
 - 📢 Designing security awareness training & user enablement content  
 
 ---
