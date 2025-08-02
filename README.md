@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Ariel
 
-🛡️ Information Security Compliance | GRC & Risk Analyst  
+🛡️ Information Security Compliance | GRC & Risk Analyst | Security Control Assessor
 🔍 Bridging Security, Compliance & Trust through Human-Centered Cybersecurity
 
-I'm a GRC and InfoSec analyst passionate about building secure, audit-ready, and user-centered systems. With a background in emergency management and over 3 years of experience supporting SaaS platforms in HealthTech, EdTech, and emergency response, I bring a practical, people-first approach to cybersecurity governance, risk analysis, fraud prevention, and regulatory compliance.
+I'm a GRC and InfoSec analyst focused on building secure, audit-ready, and user-centered systems. With a foundation in emergency management and 3+ years supporting SaaS platforms in HealthTech, EdTech, and GovTech, I bring a practical, compliance-aware approach to cybersecurity governance, risk analysis, and regulatory alignment.
 
-I specialize in translating complex security frameworks into actionable, human-centric strategies. My hands-on experience includes:
+I specialize in translating complex security frameworks into actionable strategies that balance control assurance with usability. My hands-on experience includes:
 
-- 📊 Security monitoring, fraud detection & access risk analysis  
+- 📊 Security control assessments, access reviews & risk analysis  
 - 📋 Developing NIST SP 800-53 & HIPAA-aligned InfoSec policies  
-- 🔄 Supporting third-party risk reviews  
-- 📢 Designing security awareness training & user enablement content  
+- 🔄 Supporting third-party risk reviews and audit documentation 
+- 📢 Designing security awareness content to promote behavior change and reduce risk  
 
 ---
 
@@ -18,27 +18,27 @@ I specialize in translating complex security frameworks into actionable, human-c
 
 ### 🏥 [CareNova Health – Risk Management Framework](https://github.com/ariel-grc/healthcare-risk-management-methodology)    
 **GRC | Healthcare | Risk Governance**  
-Designed a formal risk management program for a fictional healthcare organization, including qualitative risk analysis, scenario planning, and executive oversight.
+Designed a comprehensive risk management program for a fictional healthcare organization, including qualitative risk analysis, scenario planning, and executive oversight processes aligned with healthcare regulations.
 
 ### 📋 [NIST Cybersecurity Audit & Risk Analysis](https://github.com/ariel-grc/NIST-CSF-Audit-Risk-Analysis)  
 **Audit | Risk Modeling | NIST SP 800-30 & 800-53**  
-Conducted a semi-quantitative cybersecurity risk assessment and audit using NIST guidance to prioritize control gaps.
+Performed a semi-quantitative cybersecurity risk assessment and control audit using NIST frameworks to identify and prioritize security control gaps.
 
 ### 🔐 [SimplyCyber Financials – Information Security Policy](https://github.com/ariel-grc/infosec-policy-simplycyber-financials)  
-**Policy Writing | Access Controls | NIST SP 800-53 Compliance**  
-Authored an enterprise-grade InfoSec policy aligned with access control best practices and authenticator management standards.
+**Policy Development | Access Controls | NIST SP 800-53 Compliance**  
+Authored an enterprise-grade information security policy focused on access control best practices and authenticator management aligned with NIST standards.
 
 ---
 
 ## 🎯 Security Awareness & Human Risk Management
 
 ### 👩‍🏫 [Phishing Resilience: Awareness Training](https://github.com/ariel-grc/security-awareness-training)  
-**Security Culture | Training Strategy | Mastercard Forage**  
-Developed targeted phishing awareness training based on user simulation data to reduce social engineering risk.
+**Security Culture | Training Design | Mastercard Forage**  
+Developed targeted phishing awareness training based on simulated user data to strengthen resilience against social engineering attacks.
 
 ### 🧠 [Cybersecurity Password Safety Infographics](https://github.com/ariel-grc/Password-Security-Awareness-Infographic)  
 **Security Communication | Visual Awareness | ACSC-Aligned**  
-Created an engaging infographic on password safety using guidance from the Australian Cyber Security Centre.
+Created engaging and accessible infographics promoting password safety, guided by best practices from the Australian Cyber Security Centre.
 
 ---
 
@@ -46,7 +46,7 @@ Created an engaging infographic on password safety using guidance from the Austr
 
 ### 📈 [Buttercup Enterprises: Cross-Team Splunk Dashboard](https://github.com/ariel-grc/buttercup-enterprises-splunk-dashboard)  
 **Monitoring | Fraud Detection | IT/DevOps/Security Analytics**  
-Built a four-view dashboard in Splunk for IT Ops, DevOps, Business Analytics, and Fraud/Security teams within an eCommerce simulation.
+Built a multi-view Splunk dashboard serving IT Operations, DevOps, Business Analytics, and Fraud/Security teams to enhance real-time anomaly detection within an eCommerce simulation.
 
 ---
 
@@ -59,8 +59,8 @@ Security Awareness • Canva • PowerPoint • MFA • Policy Writing • Dashb
 
 ## 🎓 Education
 
-**M.S. in Emergency Management** – CUNY John Jay College  
-**B.S. in Criminal Justice** – Rochester Institute of Technology
+**M.S. Emergency Management** – CUNY John Jay College  
+**B.S. Criminal Justice** – Rochester Institute of Technology
 
 ---
 
@@ -76,7 +76,7 @@ Security Awareness • Canva • PowerPoint • MFA • Policy Writing • Dashb
 
 🔗 [LinkedIn Profile](https://linkedin.com/in/arielbethea)
 
-🚨 Actively seeking opportunities in InfoSec, GRC, Risk Analysis, or Compliance. Open to apprenticeships, internships, or full-time roles.
+🚨 Actively seeking opportunities in Information Security, GRC, Risk Analysis, and Compliance. Open to apprenticeships, internships, or full-time roles.
 
 
 
