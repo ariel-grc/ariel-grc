@@ -16,6 +16,10 @@ I specialize in translating complex security frameworks into actionable strategi
 
 ## 🛡️ Featured GRC & InfoSec Projects
 
+### 🛡️ [SentraNova AI Solutions – ISO 27001 Mini Compliance Program](https://github.com/ariel-grc/ISO27001-Mini-Compliance-Program)    
+**Compliance | ISO 27001 | Risk-Based Implementation**  
+Developed a baseline ISMS for a fictional AI company aligned with ISO 27001:2022 Annex A. Created a compliance matrix with risk context, maturity levels, and dependencies; built an asset register mapping controls to critical assets; and defined a phased roadmap for audit readiness.
+
 ### 🏥 [CareNova Health – Risk Management Framework](https://github.com/ariel-grc/healthcare-risk-management-methodology)    
 **GRC | Healthcare | Risk Governance**  
 Designed a comprehensive risk management program for a fictional healthcare organization, including qualitative risk analysis, scenario planning, and executive oversight processes aligned with healthcare regulations.
