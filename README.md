@@ -1,16 +1,21 @@
 # 👋 Hi, I'm Ariel
 
-🛡️ Information Security Compliance | GRC & Risk Analyst | Security Control Assessor
-🔍 Bridging Security, Compliance & Trust through Human-Centered Cybersecurity
+🛡️ GRC & Cyber Risk Analyst  
+Focused on building risk-based, audit-ready security programs that connect assets, controls, and enterprise risk.
 
-I'm a GRC and InfoSec analyst focused on building secure, audit-ready, and user-centered systems. With a foundation in emergency management and 3+ years supporting SaaS platforms in HealthTech, EdTech, and GovTech, I bring a practical, compliance-aware approach to cybersecurity governance, risk analysis, and regulatory alignment.
+I specialize in governance, risk, and compliance (GRC) with hands-on experience supporting SaaS platforms in EdTech, GovTech, and healthcare-adjacent environments. My background in emergency management informs a practical, resilience-focused approach to cybersecurity governance, risk assessment, and regulatory alignment.
 
-I specialize in translating complex security frameworks into actionable strategies that balance control assurance with usability. My hands-on experience includes:
+I focus on translating complex frameworks into actionable governance artifacts that support audits, executive decision-making, and sustainable security operations.
 
-- 📊 Security control assessments, access reviews & risk analysis  
-- 📋 Developing NIST SP 800-53 & HIPAA-aligned InfoSec policies  
-- 🔄 Supporting third-party risk reviews and audit documentation 
-- 📢 Designing security awareness content to promote behavior change and reduce risk  
+🔍 Core Focus Areas
+
+- Risk registers, likelihood × impact scoring, and escalation logic
+
+- Control assessments, maturity modeling, and audit readiness
+
+- Asset-based scoping and control-to-risk traceability
+
+- Policy and governance documentation aligned to enterprise GRC practices
 
 ---
 
@@ -18,27 +23,31 @@ I specialize in translating complex security frameworks into actionable strategi
 
 ### 🛡️ [SentraNova AI Solutions – ISO 27001 Mini Compliance Program](https://github.com/ariel-grc/ISO27001-Mini-Compliance-Program)    
 **Compliance | ISO 27001 | Risk-Based Implementation**  
-Developed a baseline ISMS for a fictional AI company aligned with ISO 27001:2022 Annex A. Created a compliance matrix with risk context, maturity levels, and dependencies; built an asset register mapping controls to critical assets; and defined a phased roadmap for audit readiness.
+Designed a baseline Information Security Management System (ISMS) for a fictional AI startup aligned with ISO 27001:2022 Annex A. Developed a control matrix with maturity scoring, dependencies, and risk context; built an asset register mapping controls to critical assets; and defined a phased roadmap to support audit readiness.
 
 ### 🛡️ [SentraNova AI Solutions – Risk Register & Risk Governance Framework](https://github.com/ariel-grc/ISO27001-risk-register)    
 **Risk Management | ISO 27001 | Enterprise Risk**  
-Designed an enterprise-style risk register for a fictional AI startup aligned with ISO 27001 and common GRC practices. Developed inherent and residual risk scoring, appetite-based escalation logic, and governance workflows, fully integrated with control and asset registers to support audit-ready risk management.
+Designed an enterprise-style risk register aligned with ISO 27001 and common GRC practices. Implemented inherent and residual risk scoring using likelihood × impact, defined risk appetite thresholds and escalation logic, and integrated risks with control and asset registers to support governance, prioritization, and management review.  
+
+🔹 This project extends the ISO 27001 Mini Compliance Program to demonstrate end-to-end risk governance.
 
 ### 🏥 [CareNova Health – Risk Management Framework](https://github.com/ariel-grc/healthcare-risk-management-methodology)    
 **GRC | Healthcare | Risk Governance**  
-Designed a comprehensive risk management program for a fictional healthcare organization, including qualitative risk analysis, scenario planning, and executive oversight processes aligned with healthcare regulations.
+Designed a qualitative risk management framework for a fictional healthcare organization, including scenario-based risk analysis, impact assessment, and executive oversight workflows aligned with healthcare regulatory expectations.
 
 ### 📋 [NIST Cybersecurity Audit & Risk Analysis](https://github.com/ariel-grc/NIST-CSF-Audit-Risk-Analysis)  
 **Audit | Risk Modeling | NIST SP 800-30 & 800-53**  
-Performed a semi-quantitative cybersecurity risk assessment and control audit using NIST frameworks to identify and prioritize security control gaps.
+Performed a semi-quantitative cybersecurity risk assessment and control audit using NIST frameworks to identify control gaps, assess likelihood and impact, and prioritize remediation activities.
 
 ### 🔐 [SimplyCyber Financials – Information Security Policy](https://github.com/ariel-grc/infosec-policy-simplycyber-financials)  
-**Policy Development | Access Controls | NIST SP 800-53 Compliance**  
-Authored an enterprise-grade information security policy focused on access control best practices and authenticator management aligned with NIST standards.
+**Policy Development | IAM | NIST SP 800-53**  
+Authored an information security policy focused on access control, MFA, and authenticator management aligned with NIST SP 800-53 principles and audit expectations.
 
 ---
 
-## 🎯 Security Awareness & Human Risk Management
+## Other Projects
+
+## 🎯 Security Awareness & Human Risk (Supporting Work)
 
 ### 👩‍🏫 [Phishing Resilience: Awareness Training](https://github.com/ariel-grc/security-awareness-training)  
 **Security Culture | Training Design | Mastercard Forage**  
@@ -50,18 +59,24 @@ Created engaging and accessible infographics promoting password safety, guided b
 
 ---
 
-## 📊 Data-Driven Security Monitoring
+## 📊 Risk Monitoring & Data-Informed Security (Supporting Work)
 
 ### 📈 [Buttercup Enterprises: Cross-Team Splunk Dashboard](https://github.com/ariel-grc/buttercup-enterprises-splunk-dashboard)  
 **Monitoring | Fraud Detection | IT/DevOps/Security Analytics**  
-Built a multi-view Splunk dashboard serving IT Operations, DevOps, Business Analytics, and Fraud/Security teams to enhance real-time anomaly detection within an eCommerce simulation.
+Built a multi-view Splunk dashboard to support risk monitoring and anomaly detection, demonstrating how operational telemetry can inform governance, fraud risk, and compliance reporting.
 
 ---
 
 ## 🧰 Tools & Skills
 
-Splunk • NIST SP 800-53 • HIPAA • ACSC • GRC Strategy • Risk Analysis •  
-Security Awareness • Canva • PowerPoint • MFA • Policy Writing • Dashboard Studio
+**Frameworks & Standards**  
+ISO 27001 • NIST CSF • NIST SP 800-30 / 800-53 • HIPAA • FERPA
+
+**GRC & Risk**  
+Risk Registers • Control Maturity Modeling • Audit Readiness • Asset-Based Scoping • Risk Appetite & Escalation • Policy Development
+
+**Tools & Platforms**  
+Splunk • Dashboard Studio • Jira • Confluence • Canva • PowerPoint
 
 ---
 
@@ -84,7 +99,7 @@ Security Awareness • Canva • PowerPoint • MFA • Policy Writing • Dashb
 
 🔗 [LinkedIn Profile](https://linkedin.com/in/arielbethea)
 
-🚨 Actively seeking opportunities in Information Security, GRC, Risk Analysis, and Compliance. Open to apprenticeships, internships, or full-time roles.
+🚨 Actively seeking GRC, Cyber Risk, Compliance, and Security Governance roles within SaaS, regulated, or technology-driven organizations.
 
 
 
