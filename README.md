@@ -89,6 +89,7 @@ Splunk • Dashboard Studio • Jira • Confluence • Canva • PowerPoint
 
 ## 🏅 Certifications
 
+- [CompTIA Security+](https://www.credly.com/badges/e089481b-3cdf-40cd-a600-f86501f024ce/public_url)
 - [AKYLADE Certified Cyber Resilience Fundamentals](https://www.credential.net/50a2f9e8-2d2a-4e01-90bb-8339613c91d4#acc.1CVhrwoE)
 - [USF InfoSec GRC Analyst Program](https://www.credly.com/badges/996bba09-07f9-4673-aa82-4dc17b88817b)
 - [XM Cyber Certified Expert](https://www.credly.com/badges/efb6dbcf-eeb4-4e69-b57a-38ee45e1a693/public_url)
