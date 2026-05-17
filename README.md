@@ -1,53 +1,66 @@
 # 👋 Hi, I'm Ariel
 
-🛡️ GRC & Cyber Risk Analyst  
-Focused on building risk-based, audit-ready security programs that connect assets, controls, and enterprise risk.
+🛡️ **Governance & Operations Analyst**  
+Focused on building structured, audit-ready governance and risk practices that support reliable delivery.
 
-I specialize in governance, risk, and compliance (GRC) with hands-on experience supporting SaaS platforms in EdTech, GovTech, and healthcare-adjacent environments. My background in emergency management informs a practical, resilience-focused approach to cybersecurity governance, risk assessment, and regulatory alignment.
+My background spans disaster management SaaS, healthcare-adjacent technology, and education technology platforms, where I supported onboarding operations, access configuration, documentation governance, and cross-functional coordination.
 
-I focus on translating complex frameworks into actionable governance artifacts that support audits, executive decision-making, and sustainable security operations.
+I specialize in translating security and compliance frameworks into practical operational workflows, trackers, documentation systems, and governance artifacts that help organizations manage risk consistently.
 
 🔍 Core Focus Areas
 
-- Risk registers, likelihood × impact scoring, and escalation logic
+- Risk tracking and governance documentation
 
-- Control assessments, maturity modeling, and audit readiness
+- Control mapping and audit preparation practices
 
-- Asset-based scoping and control-to-risk traceability
+- Asset and access governance concepts
 
-- Policy and governance documentation aligned to enterprise GRC practices
+- Workflow coordination supporting compliance outcomes
+  
+- Documentation systems that enable accountability and follow-through
 
 ---
 
 ## 🛡️ Featured GRC & InfoSec Projects
 
 ### 🛡️ [SentraNova AI Solutions – ISO 27001 Mini Compliance Program](https://github.com/ariel-grc/ISO27001-Mini-Compliance-Program)    
-**Compliance | ISO 27001 | Risk-Based Implementation**  
-Designed a baseline Information Security Management System (ISMS) for a fictional AI startup aligned with ISO 27001:2022 Annex A. Developed a control matrix with maturity scoring, dependencies, and risk context; built an asset register mapping controls to critical assets; and defined a phased roadmap to support audit readiness.
+**Governance Design | ISO 27001 | Project-Based**  
+Designed a baseline Information Security Management System (ISMS) for a fictional AI startup aligned with ISO 27001:2022 Annex A.
 
-### 🛡️ [SentraNova AI Solutions – Risk Register & Risk Governance Framework](https://github.com/ariel-grc/ISO27001-risk-register)    
-**Risk Management | ISO 27001 | Enterprise Risk**  
-Designed an enterprise-style risk register aligned with ISO 27001 and common GRC practices. Implemented inherent and residual risk scoring using likelihood × impact, defined risk appetite thresholds and escalation logic, and integrated risks with control and asset registers to support governance, prioritization, and management review.  
+Built:
 
-🔹 This project extends the ISO 27001 Mini Compliance Program to demonstrate end-to-end risk governance.
+- control matrix with maturity scoring
+- asset register connecting systems to controls
+- phased roadmap demonstrating audit-readiness planning
+
+### 🛡️ [SentraNova AI Solutions – Risk Register & Governance Model](https://github.com/ariel-grc/ISO27001-risk-register)    
+**Risk Management | Project-Based**  
+Developed an enterprise-style risk register integrating:
+
+- likelihood × impact scoring
+- inherent and residual risk evaluation
+escalation thresholds aligned to risk appetite
+- linkage between risks, assets, and controls
+
+Demonstrates structured governance and management review workflows. 
 
 ### 🏥 [CareNova Health – Risk Management Framework](https://github.com/ariel-grc/healthcare-risk-management-methodology)    
-**GRC | Healthcare | Risk Governance**  
-Designed a qualitative risk management framework for a fictional healthcare organization, including scenario-based risk analysis, impact assessment, and executive oversight workflows aligned with healthcare regulatory expectations.
+**Healthcare Governance | Project-Based**  
+Designed qualitative risk assessment workflows reflecting healthcare regulatory expectations and executive oversight processes.
 
 ### 📋 [NIST Cybersecurity Audit & Risk Analysis](https://github.com/ariel-grc/NIST-CSF-Audit-Risk-Analysis)  
-**Audit | Risk Modeling | NIST SP 800-30 & 800-53**  
-Performed a semi-quantitative cybersecurity risk assessment and control audit using NIST frameworks to identify control gaps, assess likelihood and impact, and prioritize remediation activities.
+**Audit Concepts| Project-Based**  
+Performed control review and semi-quantitative risk analysis using NIST SP 800-30 and 800-53 to identify gaps and prioritize remediation actions.
 
-### 🔐 [SimplyCyber Financials – Information Security Policy](https://github.com/ariel-grc/infosec-policy-simplycyber-financials)  
-**Policy Development | IAM | NIST SP 800-53**  
-Authored an information security policy focused on access control, MFA, and authenticator management aligned with NIST SP 800-53 principles and audit expectations.
+### 🔐 [Information Security Policy Development](https://github.com/ariel-grc/infosec-policy-simplycyber-financials)  
+**Policy Governance | Project-Based**  
+Authored access control and authenticator management policy aligned with NIST SP 800-53 concepts and audit documentation expectations.
 
 ---
 
 ## Other Projects
 
-## 🎯 Security Awareness & Human Risk (Supporting Work)
+## 🎯 Supporting Governance Work
 
 ### 👩‍🏫 [Phishing Resilience: Awareness Training](https://github.com/ariel-grc/security-awareness-training)  
 **Security Culture | Training Design | Mastercard Forage**  
@@ -69,14 +82,14 @@ Built a multi-view Splunk dashboard to support risk monitoring and anomaly detec
 
 ## 🧰 Tools & Skills
 
-**Frameworks & Standards**  
-ISO 27001 • NIST CSF • NIST SP 800-30 / 800-53 • HIPAA • FERPA
+**Frameworks Familiarity**  
+ISO 27001 • NIST CSF • NIST SP 800-30/53 • HIPAA • FERPA
 
-**GRC & Risk**  
-Risk Registers • Control Maturity Modeling • Audit Readiness • Asset-Based Scoping • Risk Appetite & Escalation • Policy Development
+**Governance & Risk**  
+Risk Registers • Control Mapping • Documentation Governance • Audit Preparation Concepts • Policy Development
 
-**Tools & Platforms**  
-Splunk • Dashboard Studio • Jira • Confluence • Canva • PowerPoint
+**Tools**  
+Jira • Confluence • Splunk • Google Workspace • PowerPoint • Canva
 
 ---
 
@@ -90,8 +103,8 @@ Splunk • Dashboard Studio • Jira • Confluence • Canva • PowerPoint
 ## 🏅 Certifications
 
 - [CompTIA Security+](https://www.credly.com/badges/e089481b-3cdf-40cd-a600-f86501f024ce/public_url)
-- [AKYLADE Certified Cyber Resilience Fundamentals](https://www.credential.net/50a2f9e8-2d2a-4e01-90bb-8339613c91d4#acc.1CVhrwoE)
 - [University of South Florida InfoSec GRC Analyst Program](https://www.credly.com/badges/996bba09-07f9-4673-aa82-4dc17b88817b)
+- [AKYLADE Certified Cyber Resilience Fundamentals](https://www.credential.net/50a2f9e8-2d2a-4e01-90bb-8339613c91d4#acc.1CVhrwoE)
 - [XM Cyber Certified Expert](https://www.credly.com/badges/efb6dbcf-eeb4-4e69-b57a-38ee45e1a693/public_url)
 
 ---
@@ -100,7 +113,7 @@ Splunk • Dashboard Studio • Jira • Confluence • Canva • PowerPoint
 
 🔗 [LinkedIn Profile](https://linkedin.com/in/arielbethea)
 
-🚨 Actively seeking GRC, Cyber Risk, Compliance, and Security Governance roles within SaaS, regulated, or technology-driven organizations.
+🚨 Actively pursuing roles in Governance, Risk, Compliance, Delivery & Controls, and AI Governance operations.
 
 
 
