@@ -21,52 +21,70 @@ I specialize in translating security and compliance frameworks into practical op
 
 ---
 
-## 🛡️ Featured Governance & Risk Projects
+## 🧩 Governance & Risk Artifacts (Portfolio Work)
 
-### 🛡️ [SentraNova AI Solutions – ISO 27001 Mini Compliance Program](https://github.com/ariel-grc/ISO27001-Mini-Compliance-Program)    
-**Governance Design | ISO 27001 | Project-Based**  
-Designed a baseline Information Security Management System (ISMS) for a fictional AI startup aligned with ISO 27001:2022 Annex A.
+This portfolio contains governance, risk, and control artifacts modeled on industry frameworks including ISO 27001 and NIST to demonstrate structured GRC thinking, documentation, and risk-control alignment.
 
-Built:
+### 🛡️ [SentraNova AI Solutions – ISO 27001 ISMS & Control Framework (Governance Artifact)](https://github.com/ariel-grc/ISO27001-Mini-Compliance-Program)    
+**Governance Design | ISO 27001**  
+Designed an ISO 27001:2022-aligned Information Security Management System (ISMS) including control mapping, risk integration, and audit-readiness structure for a fictional AI organization.
 
-- control matrix with maturity scoring
-- asset register connecting systems to controls
-- phased roadmap demonstrating audit-readiness planning
+Includes:
 
-### 🛡️ [SentraNova AI Solutions – Risk Register & Governance Model](https://github.com/ariel-grc/ISO27001-risk-register)    
-**Risk Management | Project-Based**  
-Developed an enterprise-style risk register integrating:
+- Control matrix with maturity scoring
+- Asset-to-control mapping
+- Risk register integration
+- Audit-readiness roadmap
 
-- likelihood × impact scoring
-- inherent and residual risk evaluation
-escalation thresholds aligned to risk appetite
-- linkage between risks, assets, and controls
+### 🧠 [SentraNova AI Solutions – Risk Register & Governance Model (Risk Artifact)](https://github.com/ariel-grc/ISO27001-risk-register)    
+**Risk Management**  
+Developed a structured risk governance model integrating likelihood × impact scoring, risk appetite thresholds, and control dependencies.
 
-Demonstrates structured governance and management review workflows. 
+Includes:
 
-### 🏥 [CareNova Health – Risk Management Framework](https://github.com/ariel-grc/healthcare-risk-management-methodology)    
-**Healthcare Governance | Project-Based**  
-Designed qualitative risk assessment workflows reflecting healthcare regulatory expectations and executive oversight processes.
+- Inherent vs residual risk tracking
+- Escalation logic aligned to risk appetite
+- Linkage between risks, controls, and assets. 
 
-### 📋 [NIST Cybersecurity Audit & Risk Analysis](https://github.com/ariel-grc/NIST-CSF-Audit-Risk-Analysis)  
-**Audit Concepts| Project-Based**  
-Performed control review and semi-quantitative risk analysis using NIST SP 800-30 and 800-53 to identify gaps and prioritize remediation actions.
+### 🏥 [CareNova Health – Healthcare Risk Governance Framework (Sector Artifact](https://github.com/ariel-grc/healthcare-risk-management-methodology)    
+**Healthcare Governance**  
+Designed a qualitative risk governance framework simulating healthcare operational risk management and executive oversight workflows.
 
-### 🔐 [Information Security Policy Development](https://github.com/ariel-grc/infosec-policy-simplycyber-financials)  
-**Policy Governance | Project-Based**  
-Authored access control and authenticator management policy aligned with NIST SP 800-53 concepts and audit documentation expectations.
+Focus:
+
+- Scenario-based risk evaluation
+- Impact assessment logic
+- Governance escalation structure
+  
+### 📋 [NIST Risk & Control Assessment (Audit Artifact)](https://github.com/ariel-grc/NIST-CSF-Audit-Risk-Analysis)  
+**Audit Concepts**  
+Performed structured risk and control assessment aligned to NIST SP 800-30 and 800-53 to identify gaps and prioritize mitigation actions.
+
+Includes:
+
+- Control gap analysis
+- Risk scoring methodology
+- Remediation prioritization model
+
+### 🔐 [Security Policy & Access Governance Artifact](https://github.com/ariel-grc/infosec-policy-simplycyber-financials)  
+**Policy Governance**  
+Authored an access control and authentication governance policy aligned to NIST SP 800-53 principles.
+
+Focus:
+
+- MFA and authentication controls
+- Identity & access governance structure
+- Policy-driven compliance alignment
 
 ---
 
-## Other Projects
+## 🎯 Supporting Governance & Security Artifacts
 
-## 🎯 Supporting Governance Work
-
-### 👩‍🏫 [Phishing Resilience: Awareness Training](https://github.com/ariel-grc/security-awareness-training)  
+### 👩‍🏫 [Security awareness training design (Mastercard Forage)](https://github.com/ariel-grc/security-awareness-training)  
 **Security Culture | Training Design | Mastercard Forage**  
 Developed targeted phishing awareness training based on simulated user data to strengthen resilience against social engineering attacks.
 
-### 🧠 [Cybersecurity Password Safety Infographics](https://github.com/ariel-grc/Password-Security-Awareness-Infographic)  
+### 🧠 [Security communication artifacts and infographics](https://github.com/ariel-grc/Password-Security-Awareness-Infographic)  
 **Security Communication | Visual Awareness | ACSC-Aligned**  
 Created engaging and accessible infographics promoting password safety, guided by best practices from the Australian Cyber Security Centre.
 
@@ -74,7 +92,7 @@ Created engaging and accessible infographics promoting password safety, guided b
 
 ## 📊 Risk Monitoring & Data-Informed Security (Supporting Work)
 
-### 📈 [Buttercup Enterprises: Cross-Team Splunk Dashboard](https://github.com/ariel-grc/buttercup-enterprises-splunk-dashboard)  
+### 📈 [Splunk dashboard demonstrating risk monitoring concepts](https://github.com/ariel-grc/buttercup-enterprises-splunk-dashboard)  
 **Monitoring | Fraud Detection | IT/DevOps/Security Analytics**  
 Built a multi-view Splunk dashboard to support risk monitoring and anomaly detection, demonstrating how operational telemetry can inform governance, fraud risk, and compliance reporting.
 
