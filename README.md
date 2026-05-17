@@ -21,7 +21,7 @@ I specialize in translating security and compliance frameworks into practical op
 
 ---
 
-## 🛡️ Featured GRC & InfoSec Projects
+## 🛡️ Featured Governance & Risk Projects
 
 ### 🛡️ [SentraNova AI Solutions – ISO 27001 Mini Compliance Program](https://github.com/ariel-grc/ISO27001-Mini-Compliance-Program)    
 **Governance Design | ISO 27001 | Project-Based**  
