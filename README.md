@@ -130,7 +130,7 @@ Jira • Confluence • Splunk • Google Workspace • PowerPoint • Canva
 
 🔗 [LinkedIn Profile](https://linkedin.com/in/arielbethea)
 
-🚨 Actively pursuing roles in Governance, Risk, Compliance, Delivery & Controls, and AI Governance operations.
+🚨 Interested in Governance, Compliance, Risk Management, and AI Governance, with a focus on documentation, controls, and operational accountability.
 
 
 
