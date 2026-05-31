@@ -16,6 +16,7 @@ This portfolio showcases projects focused on governance documentation, complianc
 - Documentation Governance
 - Process Improvement
 - NIST CSF & ISO 27001 Concepts
+- Audit Readiness & Operational Controls
 
 ---
 
