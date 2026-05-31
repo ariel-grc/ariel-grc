@@ -1,23 +1,21 @@
 # 👋 Hi, I'm Ariel
 
-🛡️ **Governance & Operations Analyst**  
-Focused on building structured, audit-ready governance and risk practices that support reliable delivery.
+🛡️ **Governance, Compliance & Operations Professional**  
+I build governance-focused projects that help organizations manage risk, improve accountability, and strengthen operational consistency through structured documentation, compliance-oriented processes, and risk-informed decision-making.
 
-My background spans disaster management SaaS, healthcare-adjacent technology, and education technology platforms, where I supported onboarding operations, access configuration, documentation governance, and cross-functional coordination.
+My professional background spans SaaS onboarding, operations support, workflow design, knowledge management, and stakeholder coordination across education, healthcare, government, and public-sector environments. Through this experience, I developed a strong interest in governance, risk, compliance, and organizational controls.
 
-I specialize in translating security and compliance frameworks into practical operational workflows, trackers, documentation systems, and governance artifacts that help organizations manage risk consistently.
+This portfolio showcases projects focused on governance documentation, compliance tracking, control assessments, risk analysis, and framework-aligned operational practices, with particular interest in GRC, AI governance, cybersecurity governance, and audit readiness.
 
 🔍 Core Focus Areas
 
-- Risk tracking and governance documentation
-
-- Control mapping and audit preparation practices
-
-- Asset and access governance concepts
-
-- Workflow coordination supporting compliance outcomes
-  
-- Documentation systems that enable accountability and follow-through
+- Governance, Risk & Compliance (GRC)
+- AI Governance
+- Risk Assessment & Control Evaluation
+- Compliance Operations
+- Documentation Governance
+- Process Improvement
+- NIST CSF & ISO 27001 Concepts
 
 ---
 
