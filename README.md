@@ -24,26 +24,27 @@ This portfolio showcases projects focused on governance documentation, complianc
 
 This portfolio contains governance, risk, and control artifacts modeled on industry frameworks including ISO 27001 and NIST to demonstrate structured GRC thinking, documentation, and risk-control alignment.
 
-### 🛡️ [SentraNova AI Solutions – ISO 27001 ISMS & Control Framework (Governance Artifact)](https://github.com/ariel-grc/ISO27001-Mini-Compliance-Program)    
+### 🛡️ [SentraNova AI Solutions – ISO 27001 Governance & Control Framework (Governance Artifact)](https://github.com/ariel-grc/ISO27001-Mini-Compliance-Program)    
 **Governance Design | ISO 27001**  
-Designed an ISO 27001:2022-aligned Information Security Management System (ISMS) including control mapping, risk integration, and audit-readiness structure for a fictional AI organization.
+Developed ISO 27001:2022-aligned governance and compliance artifacts for a fictional AI organization, including a control matrix, asset register, risk integration approach, and phased audit-readiness roadmap.
 
 Includes:
 
-- Control matrix with maturity scoring
-- Asset-to-control mapping
-- Risk register integration
-- Audit-readiness roadmap
+- Control matrix with ownership, maturity scoring, dependencies, and risk context
+- Asset-to-control mapping and asset classification
+- Risk-based compliance prioritization
+- Phased audit-readiness roadmap
 
 ### 🧠 [SentraNova AI Solutions – Risk Register & Governance Model (Risk Artifact)](https://github.com/ariel-grc/ISO27001-risk-register)    
 **Risk Management**  
-Developed a structured risk governance model integrating likelihood × impact scoring, risk appetite thresholds, and control dependencies.
+Developed an ISO 27001-aligned risk governance model and enterprise risk register incorporating inherent and residual risk analysis, risk appetite thresholds, escalation criteria, mitigation tracking, and executive reporting concepts.
 
 Includes:
 
-- Inherent vs residual risk tracking
-- Escalation logic aligned to risk appetite
-- Linkage between risks, controls, and assets. 
+- Inherent vs. residual risk tracking
+- Risk appetite and escalation logic
+- Mitigation tracking and review cycles
+- Traceability between risks, controls, and assets.
 
 ### 🏥 [CareNova Health – Healthcare Risk Governance Framework (Sector Artifact](https://github.com/ariel-grc/healthcare-risk-management-methodology)    
 **Healthcare Governance**  
